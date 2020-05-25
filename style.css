@@ -1,0 +1,163 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #8ccbbe;
+  font-family:sans-serif,arial;
+  font-size: 2em;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+  color:  #303960;
+}
+h2
+{
+  font-family: 'Priedra', cursive;
+  font-size: 3rem;
+  color: #303960;
+  padding-bottom: 10px;
+}
+h3
+{
+  font-family: 'Chelsea Market', cursive;
+color: #11999E;
+font-size: 1.4em;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.mountain
+{
+  background-color:#8ccbbe;
+  position: relative;
+  left: 1px;
+  top:10px;
+  height: 25%;
+  width: 25%;
+}
+.top-container
+{
+  margin: 0;
+  background-color:#8ccbbe;
+  position:relative;
+}
+.middle-container
+{
+background-color: white;
+}
+.bottom-container
+{
+  background-color: white;
+}
+.cloud{
+ width:150px;
+ height:150px;
+ position: absolute;
+ right: 300px;
+ top:100px;
+}
+.bottom-cloud
+{
+  width:150px;
+  height:150px;
+  position: absolute;
+left: 400px;
+bottom: 200px;
+}
+.middle-container
+{
+background-color: #EAF6F6;
+margin: 100px 0;
+
+}
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding: 150px 0 20px;
+}
+a{
+  color:#11999E;
+  font-family:sans-serif,arial;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color:#EAF6F6;
+}
+.pro
+{
+  text-decoration: underline;
+}
+.intro
+{
+  width: 30%;
+  margin: auto;
+}
+.samresh
+{
+  position: relative;
+  top: 50px;
+  width: 15%;
+  height:15%;
+  margin-bottom: 20px;
+}
+.java
+{
+  width: 20%;
+  height:20%;
+  float:left;
+}
+.football
+{
+  width: 20%;
+  height:20%;
+  float: right;
+}
+.skill-row
+{
+  width: 50%;
+  margin-left: 400px;
+  font-size: 70%;
+}
+.contact-message
+{
+  width:40%;
+  margin: 40px auto 60px;
+  font-size:1.5rem;
+}
+.copyright
+{
+  color: #EAF6F6;
+  font-size: .75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  background-color: #522d5b;
+ padding: 12px;
+ border: 2px solid;
+ border-radius: 4px;
+ font-size: 13px;
+   text-decoration: none;
+   cursor: pointer;
+color: #522d5b;
+  
+}
+.btn:hover
+{
+color:  #eb4559;
+background-color: #f2ed6f;
+}
+.a:visited
+{
+  color: #fe346e;
+  background-color: #2b580c;
+}
